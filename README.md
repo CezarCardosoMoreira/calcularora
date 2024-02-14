@@ -1,11 +1,13 @@
-# calcularora
-## calcularora simples
+# Calcularora
+## calcularora de tabuada
 
 ## Tecnologias utilizadas:
 - HTML
 - CSS
 - JS
 
-link: https://calcularora.vercel.app/
+##Como utilizar:
+- Preencher com número desejado 
+link: [https://calcularora.vercel.app](https://calcularora.vercel.app/)/
 
 [<img src="./tela1.jpg" alt="imagem da tela">](https://calcularora.vercel.app/)
