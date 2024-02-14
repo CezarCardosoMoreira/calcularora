@@ -7,3 +7,5 @@
 - JS
 
 link: https://calcularora.vercel.app/
+
+[<img src="./tela1.jpg" alt="imagem da tela">]
