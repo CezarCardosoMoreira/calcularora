@@ -1,4 +1,9 @@
 # calcularora
-calcularora simples
+## calcularora simples
+
+## Tecnologias utilizadas:
+- HTML
+- CSS
+- JS
 
 link: https://calcularora.vercel.app/
