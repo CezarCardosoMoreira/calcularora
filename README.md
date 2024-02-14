@@ -8,11 +8,17 @@
 
 ## Como utilizar:
 
-1 - Acesse o link: [https://calcularora.vercel.app](https://calcularora.vercel.app/)/
 ```
+1 - Acesse o link ou clique na imagem abaixo: 
+```
+[https://calcularora.vercel.app](https://calcularora.vercel.app/)/
 
- Preencher com o número da tabuada desejada e ecolher o multiplicador.
+```
+2 -  Preencher com o número da tabuada desejada e ecolher o multiplicador.
+```
   
 
 
 [<img src="./tela1.jpg" alt="imagem da tela">](https://calcularora.vercel.app/)
+
+[<img src="./tela1.gif" alt="gif da tela>]
