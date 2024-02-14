@@ -8,4 +8,4 @@
 
 link: https://calcularora.vercel.app/
 
-[<img src="./tela1.jpg" alt="imagem da tela">]
+[<img src="./tela1.jpg" alt="imagem da tela">](https://calcularora.vercel.app/)
