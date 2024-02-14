@@ -21,4 +21,4 @@
 
 [<img src="./tela1.jpg" alt="imagem da tela">](https://calcularora.vercel.app/)
 
-[<img src="./tela1.gif" alt="gif da tela>]
+[<img src="./tela1gif.gif" alt="gif da tela">]
